@@ -28,7 +28,7 @@ Ao final, este repositório serve como **guia prático** para quem deseja entend
 - Conexão via terminal usando SSH:
   ```bash
   ssh -i "minha-chave.pem" ubuntu@ec2-xx-xxx-xxx-xx.compute.amazonaws.com
-````
+
 
 * Verificação da conectividade:
 
